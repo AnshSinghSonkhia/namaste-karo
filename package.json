@@ -1,7 +1,7 @@
 {
   "name": "namaste-karo",
   "version": "1.0.0",
-  "description": "A simple Node.js package to greet with \"Namaste\".",
+  "description": "A simple Node.js package to greet with Namaste.",
   "main": "index.js",
   "scripts": {
     "test": "test"
