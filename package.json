@@ -1,0 +1,24 @@
+{
+  "name": "namaste-karo",
+  "version": "1.0.0",
+  "description": "A simple Node.js package to greet with \"Namaste\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/namaste-karo.git"
+  },
+  "keywords": [
+    "namaste",
+    "hello-world",
+    "hindi"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/namaste-karo/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/namaste-karo#readme"
+}
